@@ -7,7 +7,7 @@ var utilities = require('gulp-util'); //npm install gulp-util --save-dev
 var del = require('del'); //npm install del --save-dev
 var jshint = require('gulp-jshint'); //npm install jshint --save-dev
 var moment = require('moment'); //npm install moment --save-dev || npm install gulp-jshint --save-dev
-var lib = require('bower-files')({
+var lib = require('bower-files')({ //npm install bower-files --save-dev
   "overrides":{
     "bootstrap" : {
       "main": [

@@ -1,4 +1,4 @@
-var apiKey = "YOUR-API-KEY-GOES-HERE";
+var apiKey = "3907fae117797f761f50e6d64551abf6";
 
 $(document).ready(function() {
   $('#weatherLocation').click(function() {
