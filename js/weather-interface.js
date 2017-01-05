@@ -1,4 +1,4 @@
-var apiKey = 'XXXXXXXXXXXXXXXXXXXX';
+var apiKey = process.env.OPEN_WEATHER_MAP_API_KEY;
 
 $(document).ready(function() {
   $('#weatherLocation').click(function() {
