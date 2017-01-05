@@ -20,12 +20,18 @@ $ gulp build
 $ gulp serve
 ```
 
+## Setting API Keys
+Go to [Open Weather Map](http://openweathermap.org/) obtain an api key, then set the api key as a environment variable.
+```
+OPEN_WEATHER_MAP_API_KEY=<API_KEY>
+```
+
 ## Known Bugs
 
 If you notice any bugs or problems you can fill out an issue [here](http://www.github.com/kftwotwo/weather_app/issues) or feel free to submit a pull request.
 
 ## Contact details
-Here is Kevin's: kf.two.two@gmail.com and Bryant: bryant.m.wang@gmail.com
+Here is my email kf.two.two@gmail.com
 
 ## Technologies Used
 ```
