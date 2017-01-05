@@ -81,7 +81,7 @@ gulp.task('serve', function() {
   browserSync.init({
     server: {
       baseDir: "./",
-      index: "*.html"
+      index: "index.html"
     }
   });
   gulp.watch(['js/*.js'], ['jsBuild']);
