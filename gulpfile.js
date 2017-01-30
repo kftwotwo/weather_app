@@ -13,6 +13,7 @@ var lib = require('bower-files')({ //npm install bower-files --save-dev
     "bootstrap" : {
       "main": [
         "less/bootstrap.less",
+        asdfasdfasdf
         "dist/css/bootstrap.css",
         "dist/js/bootstrap.js"
       ]
